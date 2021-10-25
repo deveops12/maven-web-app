@@ -100,13 +100,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://18.116.69.236:8081/repository/ebay-btsreleases/</url>
+	      <url>http://18.116.69.236:8081/repository/maven-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.116.69.236:8081/repository/bay-bts1snapshot/</url>
+	      <url>http://18.116.69.236:8081/repository/Netcore-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
